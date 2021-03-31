@@ -1,0 +1,5 @@
+1617205386578	geckodriver	INFO	Listening on 127.0.0.1:53037
+1617205387625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1v/fhn0c0ls4p5cvfsbvtjb3yjr0000gn/T/rust_mozprofilefdR86g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617205392074	Marionette	INFO	Listening on port 53054
+1617205392194	Marionette	WARN	TLS certificate errors will be ignored for this session
